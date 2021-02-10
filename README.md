@@ -25,7 +25,7 @@ Essas instruções fornecerão uma cópia do projeto completo instalado e funcio
 
 O projeto pode ser executado com npm ou yarn, eu escolhi usar o **npm**, então escolha uma das abordagens abaixo caso você não tenha nenhum instalado em seu sistema.
 
-* **Npm** é distribuído com Node.js, o que significa que quando você baixa o Node.js, o npm é instalado automaticamente em seu computador.. [Download Node.js](https://nodejs.org/en/download/)
+* **Npm** é distribuído com Node.js, o que significa que quando você baixa o Node.js, o npm é instalado automaticamente em seu computador. [Download Node.js](https://nodejs.org/en/download/)
 
 * **Yarn** é um gerenciador de pacotes criado pela equipe do Facebook e parece ser mais rápido que o npm em geral.  [Download Yarn](https://yarnpkg.com/en/docs/install)
 
