@@ -1,7 +1,7 @@
 ## 🏷️  Sobre
 
 
-O **Theme Switcher** é uma aplicação simples feita como finalidade estudo para entender um pouco de  como funciona a troca temas, Hooks,Styled Components e TypeScript.
+O **Theme Switcher** é uma aplicação simples feita com finalidade de estudo para entender um pouco de  como funciona a troca temas, Hooks,Styled Components e TypeScript.
 
 
 ## 🚀 Tecnologias utilizadas
